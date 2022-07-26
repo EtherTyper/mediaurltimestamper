@@ -37,7 +37,8 @@
         "*://*.bit.tube/*",
         "*://*.invidio.us/*",
         "*://*.youtube-nocookie.com/*",
-        "*://*.vidlii.com/*"
+        "*://*.vidlii.com/*",
+        "*://*.odysee.com/*"
       ],
       "js": ["options/defaults.js",
              "scripts/websites.js",

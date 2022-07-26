@@ -185,5 +185,15 @@ const websites = [
       parameter: "t",
       format: "seconds"
     }]
+  },
+  {
+    id: "odysee",
+    domains: ["odysee.com"],
+    methods: [{
+      paths: ["/"],
+      type: "query",
+      parameter: "t",
+      format: "seconds"
+    }]
   }
 ];
